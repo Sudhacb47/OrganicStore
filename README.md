@@ -3,5 +3,4 @@ This is a personalized health advisor that assists people make heathier choices 
 The techstack used are:
 #languages : Java (Backend)
 #Framework : SpringBoot
-#Library : React
 #Database : MySQL
